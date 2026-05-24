@@ -443,7 +443,7 @@
 
 <nav class="navbar">
     <a href="{{ route('home') }}" class="navbar-brand">
-        Church Management System Draft
+        Church Management System
     </a>
 
     <ul class="navbar-links">
